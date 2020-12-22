@@ -1,0 +1,11 @@
+book [The Chronicles of Narnia 
+    - city [London]
+    - book ["The Lion, the Witch and the Wardrobe" - published [1950] - reading order [2], 
+            Prince Caspian: The Return to Narnia   - published [1951] - reading order [3],
+            The Voyage of the Dawn Trader          - published [1952] - reading order [4],
+            The Silver Chair                       - published [1953] - reading order [5],
+            The Horse and His Boy                  - published [1954] - reading order [6],
+            "The Magician’s Nephew"                - published [1955] - reading order [1],
+            The Last Battle                        - published [1956] - reading order [7]
+    ]
+]
