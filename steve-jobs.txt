@@ -1,0 +1,16 @@
+Business card [
+    + name [Steven P. Jobs]
+    + title [President]
+    + company [NeXT | "NeXT, Inc."
+        - address [
+            + street [3465 Deer Creek Road]
+            + city [Palo Alto]
+            + state [CA | California]
+            + zip | postal code [94304]
+        ]
+    ]
+    - telephone [415 424 0200]
+    - fax [415 424 0476]
+    - logo [https://www.logodesignlove.com/images/classic/next-logo-paul-rand.jpg]
+    - card image [http://www.fireflydaily.com/wp-content/uploads/2015/05/Next.jpg]
+]
