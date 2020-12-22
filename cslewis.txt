@@ -1,0 +1,15 @@
+university [Oxford
+    - student [C.S. Lewis | Clive Staples Lewis
+        + birth date [19 Nov 1898]
+        - college [Magdalen College
+            - address [ 
+                + city [Oxford]
+                + postcode [OX1 4AU]
+                + country [UK | United Kingdom | U.K.]
+            ]
+        ]
+        - award [triple first, Carnegie Medal]
+        - book [The Chronicles of Narnia, The Screwtape Letters, The Case for Christianity]	
+        - photo [http://www.pilgrimjournal.com/images/CSL1919.jpg]
+    ]
+]
