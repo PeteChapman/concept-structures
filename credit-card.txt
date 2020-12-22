@@ -1,0 +1,17 @@
+Credit card [
+    + Brand [VISA - logo [https://w.wiki/qqf]]
+    + Card number [4622 6300 5043 1234]
+    - Issuer [Chase | "JPMorgan Chase Bank, N.A." | J.P. Morgan
+        - contact [ customer help and technical support - telephone [1-800-935-9935],
+                    social media - twitter [@ChaseSupport],
+                    military personnel and veterans - domestic [1-877-469-0110] - overseas [1-318-340-3308]  
+                  ]
+       - website [http://jpmorgan.com]
+    ]
+    - Product [J.P. Morgan Reserve]
+    - Expiry Date | Valid Until [Apr 2026]
+    - Card Holder [Howard Hughes]
+    - Security Code [123]
+    - Client number [34611234]
+    - Message [Use of this card is governed by the conditions of use]
+]
